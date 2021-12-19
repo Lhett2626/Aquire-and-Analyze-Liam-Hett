@@ -35,3 +35,6 @@ After checking some of the misclassified reviews, it makes sense the model wasn'
 
 Besides the obvious 4 stars, I would not have assumed this was a good review.
 
+## Feedback
+
+This is a little light on written commentary about your analysis, but your code is good and your analysis makes sense. 84% is nothing to sneeze at in terms of accuracy, either, particularly for a NB model
